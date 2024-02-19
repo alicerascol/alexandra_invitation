@@ -497,7 +497,7 @@ h3 {
 .section_title span {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Muli", sans-serif;
+  font-family: "Petit Formal Script", cursive;
   color: #BDBC70;
   display: block;
   margin-top: 20px;
@@ -507,9 +507,8 @@ h3 {
 /* line 18, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_section_title.scss */
 .section_title h3 {
   font-size: 36px;
-  font-family: "Muli", sans-serif;
+  font-family: "Petit Formal Script", cursive;
   font-weight: 400;
-  text-transform: uppercase;
   margin-top: 20px;
 }
 
@@ -1049,10 +1048,10 @@ h3 {
 /* line 37, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text {
   position: absolute;
-  left: 25%;
-  top: 50%;
+  left: 49%;
+  top: 86%;
   transform: translate(-50%, -50%) rotate(45deg);
-  background: #BDBC70;
+  /* background: #BDBC70; */
   padding: 126px 55px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1065,12 +1064,10 @@ h3 {
   .slider_area_inner .slider_text {
     transform: translate(0%, -50%) rotate(0deg);
     padding: 35px 25px;
-    left: 0;
-    padding: 35px 25px;
-    left: 0;
+    left: 77px;
     right: 60%;
     margin: auto;
-    top: 72%;
+    top: 77%;
     transform: translateY(-50%);
     display: inline-block;
     width: 225px;
@@ -1084,11 +1081,9 @@ h3 {
     transform: translate(0%, -50%) rotate(0deg);
     padding: 35px 25px;
     left: 0;
-    padding: 35px 25px;
-    left: 0;
     right: 0;
     margin: auto;
-    top: 50%;
+    top: 85%;
     transform: translateY(-50%);
     display: inline-block;
     width: 270px;
@@ -1136,8 +1131,8 @@ h3 {
 .slider_area_inner .slider_text h4 {
   font-size: 16px;
   font-weight: 600;
-  font-family: "Muli", sans-serif;
-  color: #fff;
+  font-family: "Petit Formal Script", cursive;
+  color: rgb(6, 6, 6);
   margin-top: 5px;
 }
 
@@ -1146,7 +1141,7 @@ h3 {
   font-size: 36px;
   font-family: "Petit Formal Script", cursive;
   font-weight: 400;
-  color: #fff;
+  color: rgb(6, 6, 6);
   line-height: 46px;
   margin-bottom: 36px;
   margin-top: 23px;
@@ -1157,7 +1152,7 @@ h3 {
   .slider_area_inner .slider_text h3 {
     font-size: 20px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(6, 6, 6);
     line-height: 30px;
     margin-bottom: 20px;
     margin-top: 15px;
@@ -1169,7 +1164,7 @@ h3 {
   .slider_area_inner .slider_text h3 {
     font-size: 20px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(6, 6, 6);
     line-height: 30px;
     margin-bottom: 20px;
     margin-top: 15px;
@@ -1181,13 +1176,13 @@ h3 {
   font-size: 18px;
   font-family: "Petit Formal Script", cursive;
   font-weight: 400;
-  color: #fff;
+  color: rgb(6, 6, 6);
 }
 
 /* line 144, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text:before {
   position: absolute;
-  content: "";
+  /* content: ""; */
   right: -40px;
   bottom: -25px;
   -webkit-border-radius: 50%;
@@ -1223,7 +1218,7 @@ h3 {
 /* line 167, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text:after {
   position: absolute;
-  content: "";
+  /* content: ""; */
   right: -25px;
   bottom: -25px;
   -webkit-border-radius: 50%;
@@ -1385,7 +1380,7 @@ h3 {
 
 /* line 27, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_details_area .single_program .program_inner h3 {
-  font-family: "Muli", sans-serif;
+  font-family: "Petit Formal Script", cursive;
   font-weight: 400;
   font-size: 24px;
   line-height: 30px;
